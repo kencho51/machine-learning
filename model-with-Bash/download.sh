@@ -12,7 +12,7 @@ year=$FROM_YEAR
 while [ $year -le $TO_YEAR ]
 do
     # go to data directory
-    cd /Volumes/kencho/machine-learning/model-with-Bash/data
+    cd /Volumes/kencho/machine-learning/model-with-Bash/raw-data
     # show the year being downloaded now
     echo $year
     # Download
