@@ -1,3 +1,5 @@
+#!/bin/sh
+
 cd processed-data
 for csv_file in `ls TAVG_*.csv`
 do
